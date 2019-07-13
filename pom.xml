@@ -21,6 +21,7 @@
 		<module>07-SpringBootError</module>
 		<module>08-SpringBootXml</module>
 		<module>09-SpringBootSecurity</module>
+		<module>10-SpringBootJdbcTemplate</module>
 		
 	</modules>
 </project>
