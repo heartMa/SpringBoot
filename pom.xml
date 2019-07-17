@@ -22,6 +22,24 @@
 		<module>08-SpringBootXml</module>
 		<module>09-SpringBootSecurity</module>
 		<module>10-SpringBootJdbcTemplate</module>
+		<module>11-SpringBootSpringDataJpa</module>
+		<module>12-SpringBootRedis</module>
+		<module>13-SpringBootMongDB</module>
+		<module>14-SpringBootMybatis</module>
+		<module>15-SpringBootFlyway</module>
+		<module>16-SpringBootLDAP</module>
+		<module>17-SpringBootTransaction</module>
+		<module>18-SpringBootEhcache</module>
+		<module>19-SpringBootRedis</module>
+		<module>20-SpringBootLog4j</module>
+		<module>21-SpringBootAOPWebLog</module>
+		<module>22-SpringBootScheduled</module>
+		<module>23-SpringBootAsync</module>
+		<module>24-SpringBootAsyncPool</module>
+		<module>25-SpringBootFuture</module>
+		<module>26-SpringBootJavaMailSender</module>
+		<module>27-SpringBootActuator</module>
+		<module>28-SpringBootBanner</module>
 		
 	</modules>
 </project>
